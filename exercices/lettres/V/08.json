@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec V",
+  "speak": "Quel mot contient la lettre V ?",
+  "choices": [
+    "YAK",
+    "VACHE",
+    "YAOURT"
+  ],
+  "answer": "VACHE"
+}

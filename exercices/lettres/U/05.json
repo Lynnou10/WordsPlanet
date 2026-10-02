@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Quels mots contiennent la lettre U ?",
+  "speak": "Touche tous les mots qui contiennent la lettre U, puis valide.",
+  "choices": [
+    "CADEAU",
+    "HELICOPTERE",
+    "DINOSAURE",
+    "CHOCOLAT"
+  ],
+  "answers": [
+    "CADEAU",
+    "DINOSAURE"
+  ]
+}

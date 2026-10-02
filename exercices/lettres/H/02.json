@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Touche la lettre H dans le mot",
+  "speak": "Touche la lettre H dans le mot bouche",
+  "word": "BOUCHE",
+  "letter": "H"
+}

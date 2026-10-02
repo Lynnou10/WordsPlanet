@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Touche la lettre I dans le mot",
+  "speak": "Touche la lettre I dans le mot abeille",
+  "word": "ABEILLE",
+  "letter": "I"
+}

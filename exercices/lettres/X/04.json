@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre X ?",
+  "speak": "Combien de fois vois-tu la lettre X dans le mot xylophone ?",
+  "word": "XYLOPHONE",
+  "letter": "X",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 1
+}

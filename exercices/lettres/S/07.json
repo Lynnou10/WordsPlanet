@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre S ?",
+  "speak": "Trouve la lettre S dans le mot maison",
+  "word": "MAISON",
+  "letter": "S"
+}

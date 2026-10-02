@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les L",
+  "speak": "Compte les lettres L dans le mot glace",
+  "word": "GLACE",
+  "letter": "L",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

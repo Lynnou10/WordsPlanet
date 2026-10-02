@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec Q",
+  "speak": "Quel mot contient la lettre Q ?",
+  "choices": [
+    "POIRE",
+    "CASQUE",
+    "POMME"
+  ],
+  "answer": "CASQUE"
+}

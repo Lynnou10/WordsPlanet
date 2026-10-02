@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre K ?",
+  "speak": "Quel mot contient la lettre K ?",
+  "choices": [
+    "KIWI",
+    "HARICOT",
+    "HERISSON"
+  ],
+  "answer": "KIWI"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec G",
+  "speak": "Quel mot contient la lettre G ?",
+  "choices": [
+    "ETOILE",
+    "KANGOUROU",
+    "FLEUR"
+  ],
+  "answer": "KANGOUROU"
+}

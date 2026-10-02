@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre Z ?",
+  "speak": "Trouve la lettre Z dans le mot zebre",
+  "word": "ZEBRE",
+  "letter": "Z"
+}

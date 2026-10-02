@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec T",
+  "speak": "Quel mot contient la lettre T ?",
+  "choices": [
+    "PHOQUE",
+    "ELEPHANT",
+    "CASQUE"
+  ],
+  "answer": "ELEPHANT"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre E ?",
+  "speak": "Combien de fois vois-tu la lettre E dans le mot helicoptere ?",
+  "word": "HELICOPTERE",
+  "letter": "E",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 3
+}

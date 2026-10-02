@@ -1,0 +1,26 @@
+{
+  "type": "count-images",
+  "items": [
+    [
+      "lune",
+      "🌙",
+      0
+    ],
+    [
+      "araignée",
+      "🕷️",
+      1
+    ],
+    [
+      "vélo",
+      "🚲",
+      0
+    ],
+    [
+      "peigne",
+      "🪮",
+      1
+    ]
+  ],
+  "answer": 2
+}

@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre N ?",
+  "speak": "Quel mot contient la lettre N ?",
+  "choices": [
+    "AVION",
+    "VOITURE",
+    "WAPITI"
+  ],
+  "answer": "AVION"
+}

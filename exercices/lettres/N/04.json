@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre N ?",
+  "speak": "Combien de fois vois-tu la lettre N dans le mot ananas ?",
+  "word": "ANANAS",
+  "letter": "N",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 2
+}

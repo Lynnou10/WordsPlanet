@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Quels mots contiennent la lettre T ?",
+  "speak": "Touche tous les mots qui contiennent la lettre T, puis valide.",
+  "choices": [
+    "CAROTTE",
+    "COQUILLAGE",
+    "CHAT",
+    "REQUIN"
+  ],
+  "answers": [
+    "CAROTTE",
+    "CHAT"
+  ]
+}

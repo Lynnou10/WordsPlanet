@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Quels mots contiennent la lettre L ?",
+  "speak": "Touche tous les mots qui contiennent la lettre L, puis valide.",
+  "choices": [
+    "ECOLE",
+    "PANDA",
+    "ELEPHANT",
+    "PAPA"
+  ],
+  "answers": [
+    "ECOLE",
+    "ELEPHANT"
+  ]
+}

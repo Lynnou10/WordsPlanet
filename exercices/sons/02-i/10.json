@@ -1,0 +1,26 @@
+{
+  "type": "count-images",
+  "items": [
+    [
+      "moto",
+      "🏍️",
+      0
+    ],
+    [
+      "tigre",
+      "🐯",
+      1
+    ],
+    [
+      "lune",
+      "🌙",
+      0
+    ],
+    [
+      "girafe",
+      "🦒",
+      1
+    ]
+  ],
+  "answer": 2
+}

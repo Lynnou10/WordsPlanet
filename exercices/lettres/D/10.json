@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Choisis tous les mots avec D",
+  "speak": "Choisis tous les mots qui contiennent la lettre D, puis valide.",
+  "choices": [
+    "CITRON",
+    "CROCODILE",
+    "COCHON",
+    "SANDWICH"
+  ],
+  "answers": [
+    "CROCODILE",
+    "SANDWICH"
+  ]
+}

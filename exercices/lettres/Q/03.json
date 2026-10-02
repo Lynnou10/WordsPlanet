@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre Q ?",
+  "speak": "Quel mot contient la lettre Q ?",
+  "choices": [
+    "QUEUE",
+    "ORANGE",
+    "PANDA"
+  ],
+  "answer": "QUEUE"
+}

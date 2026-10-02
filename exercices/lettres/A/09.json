@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les A",
+  "speak": "Compte les lettres A dans le mot bateau",
+  "word": "BATEAU",
+  "letter": "A",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 2
+}

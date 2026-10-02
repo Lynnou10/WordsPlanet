@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les D",
+  "speak": "Compte les lettres D dans le mot renard",
+  "word": "RENARD",
+  "letter": "D",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

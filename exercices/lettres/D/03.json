@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre D ?",
+  "speak": "Quel mot contient la lettre D ?",
+  "choices": [
+    "CANARD",
+    "BOUCHE",
+    "CABANE"
+  ],
+  "answer": "CANARD"
+}

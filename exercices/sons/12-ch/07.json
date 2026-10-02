@@ -1,0 +1,10 @@
+{
+  "type": "count-words",
+  "items": [
+    "chat",
+    "lion",
+    "chien",
+    "moto"
+  ],
+  "answer": 2
+}

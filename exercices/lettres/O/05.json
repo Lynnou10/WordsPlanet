@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Quels mots contiennent la lettre O ?",
+  "speak": "Touche tous les mots qui contiennent la lettre O, puis valide.",
+  "choices": [
+    "BALLON",
+    "CINQ",
+    "BOUCHE",
+    "AQUARIUM"
+  ],
+  "answers": [
+    "BALLON",
+    "BOUCHE"
+  ]
+}

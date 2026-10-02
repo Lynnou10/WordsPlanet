@@ -1,0 +1,11 @@
+{
+  "type": "pick-letter",
+  "instruction": "Retrouve encore la lettre C",
+  "speak": "Retrouve la lettre C",
+  "choices": [
+    "J",
+    "C",
+    "O"
+  ],
+  "answer": "C"
+}

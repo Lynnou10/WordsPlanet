@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec U",
+  "speak": "Quel mot contient la lettre U ?",
+  "choices": [
+    "CROCODILE",
+    "FUSEE",
+    "ESCARGOT"
+  ],
+  "answer": "FUSEE"
+}

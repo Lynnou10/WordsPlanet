@@ -1,0 +1,470 @@
+[
+  {
+    "folder": "A",
+    "id": "letter-A",
+    "title": "La lettre A",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r01"
+  },
+  {
+    "folder": "B",
+    "id": "letter-B",
+    "title": "La lettre B",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r02"
+  },
+  {
+    "folder": "C",
+    "id": "letter-C",
+    "title": "La lettre C",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r03"
+  },
+  {
+    "folder": "D",
+    "id": "letter-D",
+    "title": "La lettre D",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r04"
+  },
+  {
+    "folder": "E",
+    "id": "letter-E",
+    "title": "La lettre E",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r05"
+  },
+  {
+    "folder": "F",
+    "id": "letter-F",
+    "title": "La lettre F",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r06"
+  },
+  {
+    "folder": "G",
+    "id": "letter-G",
+    "title": "La lettre G",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r07"
+  },
+  {
+    "folder": "H",
+    "id": "letter-H",
+    "title": "La lettre H",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r08"
+  },
+  {
+    "folder": "I",
+    "id": "letter-I",
+    "title": "La lettre I",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r09"
+  },
+  {
+    "folder": "J",
+    "id": "letter-J",
+    "title": "La lettre J",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r10"
+  },
+  {
+    "folder": "K",
+    "id": "letter-K",
+    "title": "La lettre K",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r11"
+  },
+  {
+    "folder": "L",
+    "id": "letter-L",
+    "title": "La lettre L",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r12"
+  },
+  {
+    "folder": "M",
+    "id": "letter-M",
+    "title": "La lettre M",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r13"
+  },
+  {
+    "folder": "N",
+    "id": "letter-N",
+    "title": "La lettre N",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r14"
+  },
+  {
+    "folder": "O",
+    "id": "letter-O",
+    "title": "La lettre O",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r15"
+  },
+  {
+    "folder": "P",
+    "id": "letter-P",
+    "title": "La lettre P",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r16"
+  },
+  {
+    "folder": "Q",
+    "id": "letter-Q",
+    "title": "La lettre Q",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r17"
+  },
+  {
+    "folder": "R",
+    "id": "letter-R",
+    "title": "La lettre R",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r18"
+  },
+  {
+    "folder": "S",
+    "id": "letter-S",
+    "title": "La lettre S",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r19"
+  },
+  {
+    "folder": "T",
+    "id": "letter-T",
+    "title": "La lettre T",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r20"
+  },
+  {
+    "folder": "U",
+    "id": "letter-U",
+    "title": "La lettre U",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r21"
+  },
+  {
+    "folder": "V",
+    "id": "letter-V",
+    "title": "La lettre V",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r22"
+  },
+  {
+    "folder": "W",
+    "id": "letter-W",
+    "title": "La lettre W",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r23"
+  },
+  {
+    "folder": "X",
+    "id": "letter-X",
+    "title": "La lettre X",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r24"
+  },
+  {
+    "folder": "Y",
+    "id": "letter-Y",
+    "title": "La lettre Y",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r25"
+  },
+  {
+    "folder": "Z",
+    "id": "letter-Z",
+    "title": "La lettre Z",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r26"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "type": "count-images",
+  "items": [
+    [
+      "souris",
+      "🐭",
+      0
+    ],
+    [
+      "orange",
+      "🍊",
+      1
+    ],
+    [
+      "loup",
+      "🐺",
+      0
+    ],
+    [
+      "maman",
+      "👩",
+      1
+    ]
+  ],
+  "answer": 2
+}

@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Quels mots contiennent la lettre E ?",
+  "speak": "Touche tous les mots qui contiennent la lettre E, puis valide.",
+  "choices": [
+    "BANANE",
+    "KIWI",
+    "BATEAU",
+    "KOALA"
+  ],
+  "answers": [
+    "BANANE",
+    "BATEAU"
+  ]
+}

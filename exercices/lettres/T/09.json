@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les T",
+  "speak": "Compte les lettres T dans le mot etoile",
+  "word": "ETOILE",
+  "letter": "T",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

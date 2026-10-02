@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les O",
+  "speak": "Compte les lettres O dans le mot citron",
+  "word": "CITRON",
+  "letter": "O",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

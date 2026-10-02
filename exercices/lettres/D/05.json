@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Quels mots contiennent la lettre D ?",
+  "speak": "Touche tous les mots qui contiennent la lettre D, puis valide.",
+  "choices": [
+    "DINOSAURE",
+    "CAMION",
+    "DRAGON",
+    "CAROTTE"
+  ],
+  "answers": [
+    "DINOSAURE",
+    "DRAGON"
+  ]
+}

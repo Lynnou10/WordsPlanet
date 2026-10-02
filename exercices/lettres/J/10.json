@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Choisis tous les mots avec J",
+  "speak": "Choisis tous les mots qui contiennent la lettre J, puis valide.",
+  "choices": [
+    "ILE",
+    "JOUET",
+    "KANGOUROU",
+    "JUS"
+  ],
+  "answers": [
+    "JOUET",
+    "JUS"
+  ]
+}

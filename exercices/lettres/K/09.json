@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les K",
+  "speak": "Compte les lettres K dans le mot kayak",
+  "word": "KAYAK",
+  "letter": "K",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 2
+}

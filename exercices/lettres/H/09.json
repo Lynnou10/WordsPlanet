@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les H",
+  "speak": "Compte les lettres H dans le mot herisson",
+  "word": "HERISSON",
+  "letter": "H",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

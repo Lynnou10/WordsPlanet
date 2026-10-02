@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre H ?",
+  "speak": "Trouve la lettre H dans le mot elephant",
+  "word": "ELEPHANT",
+  "letter": "H"
+}

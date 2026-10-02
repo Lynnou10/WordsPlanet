@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les E",
+  "speak": "Compte les lettres E dans le mot cabane",
+  "word": "CABANE",
+  "letter": "E",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre F ?",
+  "speak": "Quel mot contient la lettre F ?",
+  "choices": [
+    "FUSEE",
+    "CHAT",
+    "CHIEN"
+  ],
+  "answer": "FUSEE"
+}

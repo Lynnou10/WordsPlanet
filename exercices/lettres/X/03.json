@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre X ?",
+  "speak": "Quel mot contient la lettre X ?",
+  "choices": [
+    "BOXE",
+    "WAPITI",
+    "YAK"
+  ],
+  "answer": "BOXE"
+}

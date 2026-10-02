@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec X",
+  "speak": "Quel mot contient la lettre X ?",
+  "choices": [
+    "ZERO",
+    "SIX",
+    "ZOO"
+  ],
+  "answer": "SIX"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "multi-images",
+  "items": [
+    [
+      "canard",
+      "🦆",
+      1
+    ],
+    [
+      "girafe",
+      "🦒",
+      0
+    ],
+    [
+      "requin",
+      "🦈",
+      1
+    ],
+    [
+      "lune",
+      "🌙",
+      0
+    ]
+  ]
+}

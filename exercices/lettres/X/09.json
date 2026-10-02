@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les X",
+  "speak": "Compte les lettres X dans le mot deux",
+  "word": "DEUX",
+  "letter": "X",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

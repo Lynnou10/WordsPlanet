@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre D ?",
+  "speak": "Trouve la lettre D dans le mot jardin",
+  "word": "JARDIN",
+  "letter": "D"
+}

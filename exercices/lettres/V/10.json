@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Choisis tous les mots avec V",
+  "speak": "Choisis tous les mots qui contiennent la lettre V, puis valide.",
+  "choices": [
+    "ZEBRE",
+    "VOITURE",
+    "ZERO",
+    "AVION"
+  ],
+  "answers": [
+    "VOITURE",
+    "AVION"
+  ]
+}

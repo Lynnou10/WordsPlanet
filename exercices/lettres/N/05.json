@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Quels mots contiennent la lettre N ?",
+  "speak": "Touche tous les mots qui contiennent la lettre N, puis valide.",
+  "choices": [
+    "BANANE",
+    "YAK",
+    "BALLON",
+    "YAOURT"
+  ],
+  "answers": [
+    "BANANE",
+    "BALLON"
+  ]
+}

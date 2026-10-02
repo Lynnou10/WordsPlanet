@@ -1,0 +1,21 @@
+{
+  "type": "count-images",
+  "items": [
+    [
+      "chèvre",
+      "🐐",
+      1
+    ],
+    [
+      "fraise",
+      "🍓",
+      1
+    ],
+    [
+      "moto",
+      "🏍️",
+      0
+    ]
+  ],
+  "answer": 2
+}

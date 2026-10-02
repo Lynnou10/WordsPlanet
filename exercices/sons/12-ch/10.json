@@ -1,0 +1,26 @@
+{
+  "type": "count-images",
+  "items": [
+    [
+      "moto",
+      "🏍️",
+      0
+    ],
+    [
+      "cheval",
+      "🐴",
+      1
+    ],
+    [
+      "papa",
+      "👨",
+      0
+    ],
+    [
+      "chèvre",
+      "🐐",
+      1
+    ]
+  ],
+  "answer": 2
+}

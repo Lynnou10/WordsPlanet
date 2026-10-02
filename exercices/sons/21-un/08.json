@@ -1,0 +1,10 @@
+{
+  "type": "count-words",
+  "items": [
+    "moto",
+    "parfum",
+    "lundi",
+    "papa"
+  ],
+  "answer": 2
+}

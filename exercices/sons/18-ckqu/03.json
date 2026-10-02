@@ -1,0 +1,8 @@
+{
+  "type": "image-yes-no",
+  "items": [
+    "koala",
+    "🐨"
+  ],
+  "answer": 1
+}

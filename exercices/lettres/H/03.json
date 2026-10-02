@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre H ?",
+  "speak": "Quel mot contient la lettre H ?",
+  "choices": [
+    "CHAT",
+    "GATEAU",
+    "GIRAFE"
+  ],
+  "answer": "CHAT"
+}

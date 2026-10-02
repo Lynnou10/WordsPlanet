@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre G ?",
+  "speak": "Trouve la lettre G dans le mot gorille",
+  "word": "GORILLE",
+  "letter": "G"
+}

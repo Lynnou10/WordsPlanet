@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre L ?",
+  "speak": "Combien de fois vois-tu la lettre L dans le mot abeille ?",
+  "word": "ABEILLE",
+  "letter": "L",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 2
+}

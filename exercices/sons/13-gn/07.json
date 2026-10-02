@@ -1,0 +1,10 @@
+{
+  "type": "count-words",
+  "items": [
+    "montagne",
+    "chat",
+    "champignon",
+    "lune"
+  ],
+  "answer": 2
+}

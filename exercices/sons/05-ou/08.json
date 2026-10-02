@@ -1,0 +1,10 @@
+{
+  "type": "count-words",
+  "items": [
+    "tigre",
+    "loup",
+    "bougie",
+    "papa"
+  ],
+  "answer": 2
+}

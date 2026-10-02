@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre U ?",
+  "speak": "Quel mot contient la lettre U ?",
+  "choices": [
+    "BOUCHE",
+    "JAMBON",
+    "HIPPOPOTAME"
+  ],
+  "answer": "BOUCHE"
+}

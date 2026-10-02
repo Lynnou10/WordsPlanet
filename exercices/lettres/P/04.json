@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre P ?",
+  "speak": "Combien de fois vois-tu la lettre P dans le mot hippopotame ?",
+  "word": "HIPPOPOTAME",
+  "letter": "P",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 3
+}

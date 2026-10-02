@@ -1,0 +1,10 @@
+{
+  "type": "count-words",
+  "items": [
+    "lune",
+    "œuf",
+    "fleur",
+    "souris"
+  ],
+  "answer": 2
+}

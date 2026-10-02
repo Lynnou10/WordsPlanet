@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Choisis tous les mots avec A",
+  "speak": "Choisis tous les mots qui contiennent la lettre A, puis valide.",
+  "choices": [
+    "ETOILE",
+    "BALLON",
+    "FLEUR",
+    "CABANE"
+  ],
+  "answers": [
+    "BALLON",
+    "CABANE"
+  ]
+}

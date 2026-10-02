@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Touche la lettre Y dans le mot",
+  "speak": "Touche la lettre Y dans le mot xylophone",
+  "word": "XYLOPHONE",
+  "letter": "Y"
+}

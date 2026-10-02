@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre C ?",
+  "speak": "Combien de fois vois-tu la lettre C dans le mot cochon ?",
+  "word": "COCHON",
+  "letter": "C",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 2
+}

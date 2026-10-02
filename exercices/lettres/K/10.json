@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Choisis tous les mots avec K",
+  "speak": "Choisis tous les mots qui contiennent la lettre K, puis valide.",
+  "choices": [
+    "LAMA",
+    "KIMONO",
+    "LAPIN",
+    "KIOSQUE"
+  ],
+  "answers": [
+    "KIMONO",
+    "KIOSQUE"
+  ]
+}

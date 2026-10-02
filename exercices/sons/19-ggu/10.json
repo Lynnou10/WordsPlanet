@@ -1,0 +1,26 @@
+{
+  "type": "count-images",
+  "items": [
+    [
+      "vélo",
+      "🚲",
+      0
+    ],
+    [
+      "gomme",
+      "🧽",
+      1
+    ],
+    [
+      "souris",
+      "🐭",
+      0
+    ],
+    [
+      "guitare",
+      "🎸",
+      1
+    ]
+  ],
+  "answer": 2
+}

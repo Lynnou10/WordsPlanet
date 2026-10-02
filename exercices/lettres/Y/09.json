@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les Y",
+  "speak": "Compte les lettres Y dans le mot crayon",
+  "word": "CRAYON",
+  "letter": "Y",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

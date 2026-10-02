@@ -1,0 +1,21 @@
+{
+  "type": "count-images",
+  "items": [
+    [
+      "enfant",
+      "🧒",
+      1
+    ],
+    [
+      "éléphant",
+      "🐘",
+      1
+    ],
+    [
+      "vélo",
+      "🚲",
+      0
+    ]
+  ],
+  "answer": 2
+}

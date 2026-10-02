@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec J",
+  "speak": "Quel mot contient la lettre J ?",
+  "choices": [
+    "HERISSON",
+    "PYJAMA",
+    "HIBOU"
+  ],
+  "answer": "PYJAMA"
+}

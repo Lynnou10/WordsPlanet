@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les N",
+  "speak": "Compte les lettres N dans le mot canard",
+  "word": "CANARD",
+  "letter": "N",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

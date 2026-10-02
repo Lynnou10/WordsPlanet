@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les S",
+  "speak": "Compte les lettres S dans le mot soleil",
+  "word": "SOLEIL",
+  "letter": "S",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

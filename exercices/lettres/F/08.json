@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec F",
+  "speak": "Quel mot contient la lettre F ?",
+  "choices": [
+    "DINOSAURE",
+    "FLEUR",
+    "DRAGON"
+  ],
+  "answer": "FLEUR"
+}

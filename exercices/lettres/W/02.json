@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Touche la lettre W dans le mot",
+  "speak": "Touche la lettre W dans le mot kiwi",
+  "word": "KIWI",
+  "letter": "W"
+}

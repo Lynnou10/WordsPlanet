@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec A",
+  "speak": "Quel mot contient la lettre A ?",
+  "choices": [
+    "COCHON",
+    "BANANE",
+    "ECOLE"
+  ],
+  "answer": "BANANE"
+}

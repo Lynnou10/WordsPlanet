@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre U ?",
+  "speak": "Combien de fois vois-tu la lettre U dans le mot kangourou ?",
+  "word": "KANGOUROU",
+  "letter": "U",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 2
+}

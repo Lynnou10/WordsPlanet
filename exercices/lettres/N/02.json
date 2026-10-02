@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Touche la lettre N dans le mot",
+  "speak": "Touche la lettre N dans le mot ananas",
+  "word": "ANANAS",
+  "letter": "N"
+}

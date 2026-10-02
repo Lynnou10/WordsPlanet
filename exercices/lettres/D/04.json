@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre D ?",
+  "speak": "Combien de fois vois-tu la lettre D dans le mot cadeau ?",
+  "word": "CADEAU",
+  "letter": "D",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 1
+}

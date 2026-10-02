@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les R",
+  "speak": "Compte les lettres R dans le mot dragon",
+  "word": "DRAGON",
+  "letter": "R",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

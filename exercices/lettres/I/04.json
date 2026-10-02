@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre I ?",
+  "speak": "Combien de fois vois-tu la lettre I dans le mot kiwi ?",
+  "word": "KIWI",
+  "letter": "I",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 2
+}

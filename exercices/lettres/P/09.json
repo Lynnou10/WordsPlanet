@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les P",
+  "speak": "Compte les lettres P dans le mot pomme",
+  "word": "POMME",
+  "letter": "P",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

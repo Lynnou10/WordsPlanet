@@ -1,0 +1,290 @@
+[
+  {
+    "id": "r01",
+    "name": "Tyrannosaure",
+    "image": "img/reward-01.svg",
+    "theme": "Dinosaures"
+  },
+  {
+    "id": "r02",
+    "name": "Tricératops",
+    "image": "img/reward-02.svg",
+    "theme": "Dinosaures"
+  },
+  {
+    "id": "r03",
+    "name": "Vélociraptor",
+    "image": "img/reward-03.svg",
+    "theme": "Dinosaures"
+  },
+  {
+    "id": "r04",
+    "name": "Diplodocus",
+    "image": "img/reward-04.svg",
+    "theme": "Dinosaures"
+  },
+  {
+    "id": "r05",
+    "name": "Stégosaure",
+    "image": "img/reward-05.svg",
+    "theme": "Dinosaures"
+  },
+  {
+    "id": "r06",
+    "name": "Spinosaure",
+    "image": "img/reward-06.svg",
+    "theme": "Dinosaures"
+  },
+  {
+    "id": "r07",
+    "name": "Voiture de Formule 1",
+    "image": "img/reward-07.svg",
+    "theme": "Formule 1"
+  },
+  {
+    "id": "r08",
+    "name": "Pilote de course",
+    "image": "img/reward-08.svg",
+    "theme": "Formule 1"
+  },
+  {
+    "id": "r09",
+    "name": "Casque de pilote",
+    "image": "img/reward-09.svg",
+    "theme": "Formule 1"
+  },
+  {
+    "id": "r10",
+    "name": "Trophée de course",
+    "image": "img/reward-10.svg",
+    "theme": "Formule 1"
+  },
+  {
+    "id": "r11",
+    "name": "Drapeau à damier",
+    "image": "img/reward-11.svg",
+    "theme": "Formule 1"
+  },
+  {
+    "id": "r12",
+    "name": "Voiture rouge",
+    "image": "img/reward-12.svg",
+    "theme": "Formule 1"
+  },
+  {
+    "id": "r13",
+    "name": "Chien policier",
+    "image": "img/reward-13.svg",
+    "theme": "Chiots héros"
+  },
+  {
+    "id": "r14",
+    "name": "Chien pompier",
+    "image": "img/reward-14.svg",
+    "theme": "Chiots héros"
+  },
+  {
+    "id": "r15",
+    "name": "Chien sauveteur",
+    "image": "img/reward-15.svg",
+    "theme": "Chiots héros"
+  },
+  {
+    "id": "r16",
+    "name": "Badge de héros",
+    "image": "img/reward-16.svg",
+    "theme": "Chiots héros"
+  },
+  {
+    "id": "r17",
+    "name": "Camion de pompier",
+    "image": "img/reward-17.svg",
+    "theme": "Chiots héros"
+  },
+  {
+    "id": "r18",
+    "name": "Hélicoptère de secours",
+    "image": "img/reward-18.svg",
+    "theme": "Chiots héros"
+  },
+  {
+    "id": "r19",
+    "name": "Bloc d'herbe",
+    "image": "img/reward-19.svg",
+    "theme": "Monde de blocs"
+  },
+  {
+    "id": "r20",
+    "name": "Pioche",
+    "image": "img/reward-20.svg",
+    "theme": "Monde de blocs"
+  },
+  {
+    "id": "r21",
+    "name": "Épée pixel",
+    "image": "img/reward-21.svg",
+    "theme": "Monde de blocs"
+  },
+  {
+    "id": "r22",
+    "name": "Cochon pixel",
+    "image": "img/reward-22.svg",
+    "theme": "Monde de blocs"
+  },
+  {
+    "id": "r23",
+    "name": "Diamant",
+    "image": "img/reward-23.svg",
+    "theme": "Monde de blocs"
+  },
+  {
+    "id": "r24",
+    "name": "Maison en blocs",
+    "image": "img/reward-24.svg",
+    "theme": "Monde de blocs"
+  },
+  {
+    "id": "r25",
+    "name": "Petit extraterrestre",
+    "image": "img/reward-25.svg",
+    "theme": "Espace"
+  },
+  {
+    "id": "r26",
+    "name": "Soucoupe volante",
+    "image": "img/reward-26.svg",
+    "theme": "Espace"
+  },
+  {
+    "id": "r27",
+    "name": "Fusée",
+    "image": "img/reward-27.svg",
+    "theme": "Espace"
+  },
+  {
+    "id": "r28",
+    "name": "Astronaute",
+    "image": "img/reward-28.svg",
+    "theme": "Espace"
+  },
+  {
+    "id": "r29",
+    "name": "Planète",
+    "image": "img/reward-29.svg",
+    "theme": "Espace"
+  },
+  {
+    "id": "r30",
+    "name": "Étoile",
+    "image": "img/reward-30.svg",
+    "theme": "Espace"
+  },
+  {
+    "id": "r31",
+    "name": "Chevalier",
+    "image": "img/reward-31.svg",
+    "theme": "Chevaliers"
+  },
+  {
+    "id": "r32",
+    "name": "Château",
+    "image": "img/reward-32.svg",
+    "theme": "Chevaliers"
+  },
+  {
+    "id": "r33",
+    "name": "Dragon",
+    "image": "img/reward-33.svg",
+    "theme": "Chevaliers"
+  },
+  {
+    "id": "r34",
+    "name": "Couronne",
+    "image": "img/reward-34.svg",
+    "theme": "Chevaliers"
+  },
+  {
+    "id": "r35",
+    "name": "Bouclier",
+    "image": "img/reward-35.svg",
+    "theme": "Chevaliers"
+  },
+  {
+    "id": "r36",
+    "name": "Cheval",
+    "image": "img/reward-36.svg",
+    "theme": "Chevaliers"
+  },
+  {
+    "id": "r37",
+    "name": "Robot bleu",
+    "image": "img/reward-37.svg",
+    "theme": "Robots"
+  },
+  {
+    "id": "r38",
+    "name": "Petit robot",
+    "image": "img/reward-38.svg",
+    "theme": "Robots"
+  },
+  {
+    "id": "r39",
+    "name": "Robot spatial",
+    "image": "img/reward-39.svg",
+    "theme": "Robots"
+  },
+  {
+    "id": "r40",
+    "name": "Robot explorateur",
+    "image": "img/reward-40.svg",
+    "theme": "Robots"
+  },
+  {
+    "id": "r41",
+    "name": "Balle de capture",
+    "image": "img/reward-41.svg",
+    "theme": "Créatures à collectionner"
+  },
+  {
+    "id": "r42",
+    "name": "Souris électrique",
+    "image": "img/reward-42.svg",
+    "theme": "Créatures à collectionner"
+  },
+  {
+    "id": "r43",
+    "name": "Dragon de feu",
+    "image": "img/reward-43.svg",
+    "theme": "Créatures à collectionner"
+  },
+  {
+    "id": "r44",
+    "name": "Tortue d'eau",
+    "image": "img/reward-44.svg",
+    "theme": "Créatures à collectionner"
+  },
+  {
+    "id": "r45",
+    "name": "Créature plante",
+    "image": "img/reward-45.svg",
+    "theme": "Créatures à collectionner"
+  },
+  {
+    "id": "r46",
+    "name": "Œuf mystérieux",
+    "image": "img/reward-46.svg",
+    "theme": "Créatures à collectionner"
+  },
+  {
+    "id": "r47",
+    "name": "Dinosaure doré",
+    "image": "img/reward-47.svg",
+    "theme": "Dinosaures"
+  },
+  {
+    "id": "r48",
+    "name": "Robot champion",
+    "image": "img/reward-48.svg",
+    "theme": "Robots"
+  }
+]

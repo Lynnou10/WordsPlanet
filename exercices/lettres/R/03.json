@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre R ?",
+  "speak": "Quel mot contient la lettre R ?",
+  "choices": [
+    "ARBRE",
+    "SAXOPHONE",
+    "COQUILLAGE"
+  ],
+  "answer": "ARBRE"
+}

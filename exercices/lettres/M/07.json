@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre M ?",
+  "speak": "Trouve la lettre M dans le mot moto",
+  "word": "MOTO",
+  "letter": "M"
+}

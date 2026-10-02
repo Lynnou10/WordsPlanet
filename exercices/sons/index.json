@@ -1,0 +1,420 @@
+[
+  {
+    "folder": "01-a",
+    "id": "sound-01",
+    "title": "A",
+    "ipa": "/a/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r27"
+  },
+  {
+    "folder": "02-i",
+    "id": "sound-02",
+    "title": "I",
+    "ipa": "/i/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r28"
+  },
+  {
+    "folder": "03-o",
+    "id": "sound-03",
+    "title": "O",
+    "ipa": "/o/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r29"
+  },
+  {
+    "folder": "04-u",
+    "id": "sound-04",
+    "title": "U",
+    "ipa": "/y/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r30"
+  },
+  {
+    "folder": "05-ou",
+    "id": "sound-05",
+    "title": "OU",
+    "ipa": "/u/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r31"
+  },
+  {
+    "folder": "06-eerez",
+    "id": "sound-06",
+    "title": "É / ER / EZ",
+    "ipa": "/e/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r32"
+  },
+  {
+    "folder": "07-eeai",
+    "id": "sound-07",
+    "title": "È / Ê / AI",
+    "ipa": "/ɛ/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r33"
+  },
+  {
+    "folder": "08-on",
+    "id": "sound-08",
+    "title": "ON",
+    "ipa": "/ɔ̃/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r34"
+  },
+  {
+    "folder": "09-anen",
+    "id": "sound-09",
+    "title": "AN / EN",
+    "ipa": "/ɑ̃/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r35"
+  },
+  {
+    "folder": "10-inainein",
+    "id": "sound-10",
+    "title": "IN / AIN / EIN",
+    "ipa": "/ɛ̃/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r36"
+  },
+  {
+    "folder": "11-oi",
+    "id": "sound-11",
+    "title": "OI",
+    "ipa": "/wa/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r37"
+  },
+  {
+    "folder": "12-ch",
+    "id": "sound-12",
+    "title": "CH",
+    "ipa": "/ʃ/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r38"
+  },
+  {
+    "folder": "13-gn",
+    "id": "sound-13",
+    "title": "GN",
+    "ipa": "/ɲ/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r39"
+  },
+  {
+    "folder": "14-jg",
+    "id": "sound-14",
+    "title": "J / G",
+    "ipa": "/ʒ/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r40"
+  },
+  {
+    "folder": "15-ssscc",
+    "id": "sound-15",
+    "title": "S / SS / C / Ç",
+    "ipa": "/s/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r41"
+  },
+  {
+    "folder": "16-zs",
+    "id": "sound-16",
+    "title": "Z / S",
+    "ipa": "/z/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r42"
+  },
+  {
+    "folder": "17-fph",
+    "id": "sound-17",
+    "title": "F / PH",
+    "ipa": "/f/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r43"
+  },
+  {
+    "folder": "18-ckqu",
+    "id": "sound-18",
+    "title": "C / K / QU",
+    "ipa": "/k/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r44"
+  },
+  {
+    "folder": "19-ggu",
+    "id": "sound-19",
+    "title": "G / GU",
+    "ipa": "/g/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r45"
+  },
+  {
+    "folder": "20-euœu",
+    "id": "sound-20",
+    "title": "EU / ŒU",
+    "ipa": "/ø/ /œ/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r46"
+  },
+  {
+    "folder": "21-un",
+    "id": "sound-21",
+    "title": "UN",
+    "ipa": "/œ̃/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r47"
+  },
+  {
+    "folder": "22-r",
+    "id": "sound-22",
+    "title": "R",
+    "ipa": "/ʁ/",
+    "exercises": [
+      "01.json",
+      "02.json",
+      "03.json",
+      "04.json",
+      "05.json",
+      "06.json",
+      "07.json",
+      "08.json",
+      "09.json",
+      "10.json"
+    ],
+    "rewardId": "r48"
+  }
+]

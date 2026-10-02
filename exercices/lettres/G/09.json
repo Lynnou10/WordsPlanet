@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les G",
+  "speak": "Compte les lettres G dans le mot nuage",
+  "word": "NUAGE",
+  "letter": "G",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les B",
+  "speak": "Compte les lettres B dans le mot bebe",
+  "word": "BEBE",
+  "letter": "B",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 2
+}

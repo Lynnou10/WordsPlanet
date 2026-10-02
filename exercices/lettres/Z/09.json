@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les Z",
+  "speak": "Compte les lettres Z dans le mot zoo",
+  "word": "ZOO",
+  "letter": "Z",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

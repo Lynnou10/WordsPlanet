@@ -1,0 +1,25 @@
+{
+  "type": "multi-images",
+  "items": [
+    [
+      "lune",
+      "🌙",
+      0
+    ],
+    [
+      "champignon",
+      "🍄",
+      1
+    ],
+    [
+      "lion",
+      "🦁",
+      0
+    ],
+    [
+      "peigne",
+      "🪮",
+      1
+    ]
+  ]
+}

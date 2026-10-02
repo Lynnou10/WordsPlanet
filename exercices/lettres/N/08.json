@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec N",
+  "speak": "Quel mot contient la lettre N ?",
+  "choices": [
+    "ZEBRE",
+    "CAMION",
+    "ZERO"
+  ],
+  "answer": "CAMION"
+}

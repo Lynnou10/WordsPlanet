@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec M",
+  "speak": "Quel mot contient la lettre M ?",
+  "choices": [
+    "LUNE",
+    "POMME",
+    "NUAGE"
+  ],
+  "answer": "POMME"
+}

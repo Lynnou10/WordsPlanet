@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec S",
+  "speak": "Quel mot contient la lettre S ?",
+  "choices": [
+    "VELO",
+    "OISEAU",
+    "VOITURE"
+  ],
+  "answer": "OISEAU"
+}

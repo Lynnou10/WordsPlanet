@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec K",
+  "speak": "Quel mot contient la lettre K ?",
+  "choices": [
+    "JARDIN",
+    "KART",
+    "JOUET"
+  ],
+  "answer": "KART"
+}

@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre P ?",
+  "speak": "Trouve la lettre P dans le mot papillon",
+  "word": "PAPILLON",
+  "letter": "P"
+}

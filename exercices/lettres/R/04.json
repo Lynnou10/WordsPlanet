@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre R ?",
+  "speak": "Combien de fois vois-tu la lettre R dans le mot arbre ?",
+  "word": "ARBRE",
+  "letter": "R",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 2
+}

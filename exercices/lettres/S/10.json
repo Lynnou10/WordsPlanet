@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Choisis tous les mots avec S",
+  "speak": "Choisis tous les mots qui contiennent la lettre S, puis valide.",
+  "choices": [
+    "WAGON",
+    "SOURIS",
+    "WAPITI",
+    "SAXOPHONE"
+  ],
+  "answers": [
+    "SOURIS",
+    "SAXOPHONE"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les C",
+  "speak": "Compte les lettres C dans le mot carotte",
+  "word": "CAROTTE",
+  "letter": "C",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

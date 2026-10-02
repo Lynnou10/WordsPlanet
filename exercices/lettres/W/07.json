@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre W ?",
+  "speak": "Trouve la lettre W dans le mot wok",
+  "word": "WOK",
+  "letter": "W"
+}

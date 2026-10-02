@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre T ?",
+  "speak": "Combien de fois vois-tu la lettre T dans le mot carotte ?",
+  "word": "CAROTTE",
+  "letter": "T",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 2
+}

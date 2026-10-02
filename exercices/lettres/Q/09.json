@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les Q",
+  "speak": "Compte les lettres Q dans le mot moustique",
+  "word": "MOUSTIQUE",
+  "letter": "Q",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

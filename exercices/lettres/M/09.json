@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les M",
+  "speak": "Compte les lettres M dans le mot tomate",
+  "word": "TOMATE",
+  "letter": "M",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Choisis tous les mots avec W",
+  "speak": "Choisis tous les mots qui contiennent la lettre W, puis valide.",
+  "choices": [
+    "ZOO",
+    "CLOWN",
+    "PIZZA",
+    "BROWNIE"
+  ],
+  "answers": [
+    "CLOWN",
+    "BROWNIE"
+  ]
+}

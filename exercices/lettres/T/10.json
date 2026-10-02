@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Choisis tous les mots avec T",
+  "speak": "Choisis tous les mots qui contiennent la lettre T, puis valide.",
+  "choices": [
+    "JUS",
+    "GATEAU",
+    "JUPE",
+    "HARICOT"
+  ],
+  "answers": [
+    "GATEAU",
+    "HARICOT"
+  ]
+}

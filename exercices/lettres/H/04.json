@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre H ?",
+  "speak": "Combien de fois vois-tu la lettre H dans le mot bouche ?",
+  "word": "BOUCHE",
+  "letter": "H",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 1
+}

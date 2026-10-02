@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre N ?",
+  "speak": "Trouve la lettre N dans le mot cabane",
+  "word": "CABANE",
+  "letter": "N"
+}

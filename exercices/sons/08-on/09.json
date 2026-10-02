@@ -1,0 +1,21 @@
+{
+  "type": "count-images",
+  "items": [
+    [
+      "lion",
+      "🦁",
+      1
+    ],
+    [
+      "cochon",
+      "🐷",
+      1
+    ],
+    [
+      "chat",
+      "🐱",
+      0
+    ]
+  ],
+  "answer": 2
+}

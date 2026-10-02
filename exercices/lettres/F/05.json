@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Quels mots contiennent la lettre F ?",
+  "speak": "Touche tous les mots qui contiennent la lettre F, puis valide.",
+  "choices": [
+    "GIRAFE",
+    "CITRON",
+    "UNIFORME",
+    "COCHON"
+  ],
+  "answers": [
+    "GIRAFE",
+    "UNIFORME"
+  ]
+}

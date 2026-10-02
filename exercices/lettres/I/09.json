@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les I",
+  "speak": "Compte les lettres I dans le mot dinosaure",
+  "word": "DINOSAURE",
+  "letter": "I",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

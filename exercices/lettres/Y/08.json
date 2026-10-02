@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec Y",
+  "speak": "Quel mot contient la lettre Y ?",
+  "choices": [
+    "SAXOPHONE",
+    "PYJAMA",
+    "COQUILLAGE"
+  ],
+  "answer": "PYJAMA"
+}

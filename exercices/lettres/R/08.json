@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec R",
+  "speak": "Quel mot contient la lettre R ?",
+  "choices": [
+    "MOUSTIQUE",
+    "DINOSAURE",
+    "QUESTION"
+  ],
+  "answer": "DINOSAURE"
+}

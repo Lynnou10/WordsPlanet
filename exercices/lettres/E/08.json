@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec E",
+  "speak": "Quel mot contient la lettre E ?",
+  "choices": [
+    "LAMA",
+    "BOUCHE",
+    "LAPIN"
+  ],
+  "answer": "BOUCHE"
+}

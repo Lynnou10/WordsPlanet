@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les J",
+  "speak": "Compte les lettres J dans le mot jardin",
+  "word": "JARDIN",
+  "letter": "J",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

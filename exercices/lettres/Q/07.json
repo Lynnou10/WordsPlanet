@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre Q ?",
+  "speak": "Trouve la lettre Q dans le mot phoque",
+  "word": "PHOQUE",
+  "letter": "Q"
+}

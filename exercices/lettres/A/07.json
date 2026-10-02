@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre A ?",
+  "speak": "Trouve la lettre A dans le mot avion",
+  "word": "AVION",
+  "letter": "A"
+}

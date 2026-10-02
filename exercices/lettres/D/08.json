@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec D",
+  "speak": "Quel mot contient la lettre D ?",
+  "choices": [
+    "CHAT",
+    "PANDA",
+    "CHIEN"
+  ],
+  "answer": "PANDA"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les V",
+  "speak": "Compte les lettres V dans le mot velo",
+  "word": "VELO",
+  "letter": "V",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

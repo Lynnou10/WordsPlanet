@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les W",
+  "speak": "Compte les lettres W dans le mot sandwich",
+  "word": "SANDWICH",
+  "letter": "W",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}

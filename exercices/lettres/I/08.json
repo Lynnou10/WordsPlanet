@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec I",
+  "speak": "Quel mot contient la lettre I ?",
+  "choices": [
+    "ORANGE",
+    "CITRON",
+    "PANDA"
+  ],
+  "answer": "CITRON"
+}

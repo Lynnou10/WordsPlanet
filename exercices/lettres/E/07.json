@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre E ?",
+  "speak": "Trouve la lettre E dans le mot bebe",
+  "word": "BEBE",
+  "letter": "E"
+}

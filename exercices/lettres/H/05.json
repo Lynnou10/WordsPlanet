@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Quels mots contiennent la lettre H ?",
+  "speak": "Touche tous les mots qui contiennent la lettre H, puis valide.",
+  "choices": [
+    "CHIEN",
+    "GLACE",
+    "COCHON",
+    "GORILLE"
+  ],
+  "answers": [
+    "CHIEN",
+    "COCHON"
+  ]
+}

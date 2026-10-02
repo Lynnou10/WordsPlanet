@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec H",
+  "speak": "Quel mot contient la lettre H ?",
+  "choices": [
+    "ILE",
+    "HARICOT",
+    "JARDIN"
+  ],
+  "answer": "HARICOT"
+}

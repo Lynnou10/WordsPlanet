@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre M ?",
+  "speak": "Quel mot contient la lettre M ?",
+  "choices": [
+    "LAMA",
+    "KIWI",
+    "KOALA"
+  ],
+  "answer": "LAMA"
+}

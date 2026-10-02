@@ -1,0 +1,7 @@
+{
+  "type": "find-in-word",
+  "instruction": "Où est la lettre L ?",
+  "speak": "Trouve la lettre L dans le mot etoile",
+  "word": "ETOILE",
+  "letter": "L"
+}

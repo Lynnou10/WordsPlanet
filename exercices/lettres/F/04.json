@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre F ?",
+  "speak": "Combien de fois vois-tu la lettre F dans le mot fleur ?",
+  "word": "FLEUR",
+  "letter": "F",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 1
+}

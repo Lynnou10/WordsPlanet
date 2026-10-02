@@ -1,0 +1,10 @@
+{
+  "type": "count-words",
+  "items": [
+    "papa",
+    "cheval",
+    "chèvre",
+    "vélo"
+  ],
+  "answer": 2
+}

@@ -1,0 +1,10 @@
+{
+  "type": "count-words",
+  "items": [
+    "poule",
+    "bébé",
+    "nez",
+    "lion"
+  ],
+  "answer": 2
+}

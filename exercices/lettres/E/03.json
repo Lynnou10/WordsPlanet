@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Quel mot contient la lettre E ?",
+  "speak": "Quel mot contient la lettre E ?",
+  "choices": [
+    "ARBRE",
+    "JARDIN",
+    "KANGOUROU"
+  ],
+  "answer": "ARBRE"
+}

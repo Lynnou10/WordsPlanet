@@ -1,0 +1,10 @@
+{
+  "type": "count-words",
+  "items": [
+    "chèvre",
+    "moto",
+    "fraise",
+    "loup"
+  ],
+  "answer": 2
+}

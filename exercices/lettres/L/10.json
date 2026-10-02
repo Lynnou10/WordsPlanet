@@ -1,0 +1,15 @@
+{
+  "type": "multi-word",
+  "instruction": "Choisis tous les mots avec L",
+  "speak": "Choisis tous les mots qui contiennent la lettre L, puis valide.",
+  "choices": [
+    "QUATRE",
+    "GORILLE",
+    "QUEUE",
+    "ILE"
+  ],
+  "answers": [
+    "GORILLE",
+    "ILE"
+  ]
+}

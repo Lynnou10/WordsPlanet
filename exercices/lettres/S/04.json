@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre S ?",
+  "speak": "Combien de fois vois-tu la lettre S dans le mot herisson ?",
+  "word": "HERISSON",
+  "letter": "S",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 2
+}

@@ -1,0 +1,11 @@
+{
+  "type": "pick-word",
+  "instruction": "Trouve un autre mot avec W",
+  "speak": "Quel mot contient la lettre W ?",
+  "choices": [
+    "ZEBRE",
+    "WATERPOLO",
+    "ZERO"
+  ],
+  "answer": "WATERPOLO"
+}

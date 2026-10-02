@@ -1,0 +1,15 @@
+{
+  "type": "count-letter",
+  "instruction": "Combien de fois vois-tu la lettre Y ?",
+  "speak": "Combien de fois vois-tu la lettre Y dans le mot yoyo ?",
+  "word": "YOYO",
+  "letter": "Y",
+  "choices": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "answer": 2
+}

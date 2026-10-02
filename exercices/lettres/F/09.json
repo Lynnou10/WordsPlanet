@@ -1,0 +1,14 @@
+{
+  "type": "count-letter",
+  "instruction": "Compte les F",
+  "speak": "Compte les lettres F dans le mot fusee",
+  "word": "FUSEE",
+  "letter": "F",
+  "choices": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "answer": 1
+}
